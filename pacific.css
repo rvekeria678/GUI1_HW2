@@ -37,7 +37,7 @@ nav {
 nav ul li {
 	list-style-type: none;
 }
-a:link:not(:last-child){
+li a:link{
 	text-decoration: none;
 	color:rgb(2, 2, 58);
 	font-size: 1.2em;
