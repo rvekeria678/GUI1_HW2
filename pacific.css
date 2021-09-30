@@ -87,7 +87,8 @@ img {
 	padding-right: 25px;
 }
 .resort {
-	color:rgb(51, 92, 153);
+	color:rgb(64, 108, 175);
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	font-size: 16;
 }
 p span {
